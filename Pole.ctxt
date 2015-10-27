@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pole()
+comment1.params=pkt\ zycie
+comment1.target=void\ stop(int,\ int)
+numComments=2
